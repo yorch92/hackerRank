@@ -127,14 +127,62 @@ namespace hackerRank
                 Console.WriteLine("2 x {0} = " + n * i, i);
             }
         }
+        static void splitWord(String word)
+        {
+            String evens = "";
+            String odds = "";
+
+            for (int i = 0; i < word.Length; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    evens = evens + word[i].ToString();
+                }
+                else
+                {
+                    odds = odds + word[i].ToString();
+                }
+            }
+
+            Console.WriteLine("{0} {1}", evens, odds);
+        }
+        static void daySix()
+        {
+            /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
+            String testCases;
+            String firstS;
+            String secondS;
+
+            testCases = Console.ReadLine();
+            firstS = Console.ReadLine();
+            secondS = Console.ReadLine();
+
+            splitWord(firstS);
+            splitWord(secondS);
+        }
+        static void daySeven() {
+            int n = Convert.ToInt32(Console.ReadLine());
+            string[] arr_temp = Console.ReadLine().Split(' ');
+            int[] arr = Array.ConvertAll(arr_temp, Int32.Parse);
+            String finalString = "";
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                finalString = finalString + arr[(n - 1) - i] + " ";
+            }
+
+            Console.WriteLine("{0}", finalString);
+        }
         static void Main(string[] args)
         {
-            // dayZero();
-            // dayOne();
-            // dayTwo();
-            // dayThree();
-            // dayFour();
-            dayFive();
+            //dayZero();
+            //dayOne();
+            //dayTwo();
+            //dayThree();
+            //dayFour();
+            //dayFive();
+            //daySix();
+            daySeven();
         }
     }
 }

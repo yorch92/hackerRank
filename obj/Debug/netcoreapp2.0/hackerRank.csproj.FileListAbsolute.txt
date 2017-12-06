@@ -8,3 +8,14 @@ C:\Users\Yorch\Code\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.AssemblyInfoIn
 C:\Users\Yorch\Code\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.AssemblyInfo.cs
 C:\Users\Yorch\Code\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.dll
 C:\Users\Yorch\Code\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.pdb
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\bin\Debug\netcoreapp2.0\hackerRank.deps.json
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\bin\Debug\netcoreapp2.0\hackerRank.runtimeconfig.json
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\bin\Debug\netcoreapp2.0\hackerRank.runtimeconfig.dev.json
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\bin\Debug\netcoreapp2.0\hackerRank.dll
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\bin\Debug\netcoreapp2.0\hackerRank.pdb
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.csproj.CoreCompileInputs.cache
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.AssemblyInfoInputs.cache
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.AssemblyInfo.cs
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.dll
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.pdb
+C:\Users\jorgeesc-c\Code\dotNet\hackerRank\obj\Debug\netcoreapp2.0\hackerRank.csprojResolveAssemblyReference.cache

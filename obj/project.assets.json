@@ -664,29 +664,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Yorch\\.nuget\\packages\\": {},
+    "C:\\Users\\jorgeesc-c\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yorch\\Code\\hackerRank\\hackerRank.csproj",
+      "projectUniqueName": "C:\\Users\\jorgeesc-c\\Code\\dotNet\\hackerRank\\hackerRank.csproj",
       "projectName": "hackerRank",
-      "projectPath": "C:\\Users\\Yorch\\Code\\hackerRank\\hackerRank.csproj",
-      "packagesPath": "C:\\Users\\Yorch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yorch\\Code\\hackerRank\\obj\\",
+      "projectPath": "C:\\Users\\jorgeesc-c\\Code\\dotNet\\hackerRank\\hackerRank.csproj",
+      "packagesPath": "C:\\Users\\jorgeesc-c\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jorgeesc-c\\Code\\dotNet\\hackerRank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Yorch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jorgeesc-c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nugget.hrbl.net:8088/api/odata": {},
+        "http://nugget.hrbl.net:9099/api/odata": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
@@ -704,7 +710,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "2.0.0",
             "autoReferenced": true
           }
         },
